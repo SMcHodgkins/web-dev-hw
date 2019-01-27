@@ -1,3 +1,5 @@
-Does this count as content?
-
-I hope it does.
+The internet is the physical connection between devices. The web is the collection of linked webistes using hypertext.
+A local network attaches through a router into an ISP which directs packet traffic to directed locations across the network of linked machines. Packets are swapped, internet stuff happens. 
+A directory is the hierarchical structure of destinations expanding from a root. Each of these destinations can contain additional destinations or files. This structure allows for efficient file calling.
+A version control system stores prior versions of work which would prove beneficial in situations where rollbacks are necessary due to mistakes made. Tracking changes by mulitple users increases efficiency and promotes experimentation, you're not going to lose all your work.
+I found the information on VSC interesting because I was curious how workflows on collaborative programming worked and this illuminates how each person could make edits and record their progress.
