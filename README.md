@@ -1,2 +1,2 @@
-# web-dev-hw
+# Scott McHodgkins web-dev-hw
 Repo for Intro to web Homework
