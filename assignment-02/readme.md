@@ -9,4 +9,4 @@ It probably was.
 
 [Responses](./responses.txt)
 
-![Screencap](./images/screencap.jpg)
+![Screencap](./images/screencap.JPG)
