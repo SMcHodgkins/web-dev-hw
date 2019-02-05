@@ -1,0 +1,7 @@
+Data is divided into packets, routed along a series of networks, and reassembled upon arrival.
+
+Domain name servers translate requests for websites and reroute to the IP address of the website location.
+
+A cookie is stored information on a local browser about a website that provides information on subsequent encounters.
+
+The three basic parts of a URL are protocol, domain name, and the path.
