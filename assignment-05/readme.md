@@ -8,4 +8,5 @@
  - Create my A5 folder and contents in Atom
  - Follow directions on moodle
  - Get hungry
+ - Commit and upload
  - Fix small issues
