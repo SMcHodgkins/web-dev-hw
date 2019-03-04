@@ -2,7 +2,8 @@
 ***
 1. The most common form I come across while browsing are contact forms on portfolios. These allow anyone interested in an artist's work to contact them. This could help filter potential clients from fans asking questions.
 
-2. - Text Input - Passwords
+2. Inputs
+  - Text Input - Passwords
     - Probably used when inputting passwords. Signing into things.
   - Selection Input - Radio Buttons
     - Used in feedback questionnaires. Strongly agree-Strongly disagree.
@@ -18,3 +19,7 @@
  - Made an attempt at creating a form
  - Drew a slice of pizza for the button
  - Crossed fingers, pushed live
+ - Fixed readme issues
+ - Fixed H1 issues in index
+ - Fixed spacing issues in index
+ - Pushed live again
