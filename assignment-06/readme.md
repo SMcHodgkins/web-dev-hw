@@ -23,3 +23,6 @@
  - Fixed H1 issues in index
  - Fixed spacing issues in index
  - Pushed live again
+ - Spacing issues, still? Fixed those again.
+ - Round 3 lets push it
+ - 
