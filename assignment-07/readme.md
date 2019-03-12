@@ -17,3 +17,6 @@
    - Added the media arts video element
    - Added the google map iframe
    - Saved, pushed live.
+   - Whoops the album art is huge
+   - Resized it to 600px
+   
