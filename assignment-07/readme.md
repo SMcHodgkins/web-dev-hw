@@ -23,3 +23,4 @@
    - Well, that didn't work
    - Resized the image in an editor
    - Round 2, lets go
+   - Success
