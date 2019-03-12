@@ -18,5 +18,8 @@
    - Added the google map iframe
    - Saved, pushed live.
    - Whoops the album art is huge
-   - Resized it to 600px
-   
+   - Resized it to 600px in the img properties
+   - Pushed live
+   - Well, that didn't work
+   - Resized the image in an editor
+   - Round 2, lets go
