@@ -28,4 +28,5 @@ Response
 - Added info in about
 - Iframe refuses to be centered
 - Finally fixed Iframe centering by adding it to a block element
--
+- Added form with hopefully working buttons to contact
+- Gotta fix centering issues
