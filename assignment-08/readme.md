@@ -11,3 +11,4 @@ Response
 
 - Built my base html docs (Meta and main elements)
 - Added test style to index
+- Fixed an extra <! at the start of the .html files
