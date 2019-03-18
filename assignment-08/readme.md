@@ -14,3 +14,5 @@ Response
 - Fixed an extra <! at the start of the .html files
 - Experimented with styles
 - Added early links
+- Added filler text and temp photos
+- Attempted to align elements
