@@ -13,7 +13,7 @@ Response
 - Added test style to index
 - Fixed an extra <! at the start of the .html files
 - Experimented with styles
-- Added early links
+- Added early links/nav elements
 - Added filler text and temp photos
 - Attempted to align elements
 - Added list
@@ -21,3 +21,4 @@ Response
 - Attempted to clarify classes
 - Solved that problem
 - Added step 1 and moved temp photos out
+- Added the next two steps
