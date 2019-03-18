@@ -27,3 +27,5 @@ Response
 - Finished index, moved onto about and contact
 - Added info in about
 - Iframe refuses to be centered
+- Finally fixed Iframe centering by adding it to a block element
+-
