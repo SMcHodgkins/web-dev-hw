@@ -22,3 +22,7 @@ Response
 - Solved that problem
 - Added step 1 and moved temp photos out
 - Added the next two steps
+- Fixed spacing issues
+- Troubleshooted issues-- I keep leaving end > off
+- Finished index, moved onto about and contact
+- Added info in about
