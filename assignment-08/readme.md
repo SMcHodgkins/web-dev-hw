@@ -16,3 +16,8 @@ Response
 - Added early links
 - Added filler text and temp photos
 - Attempted to align elements
+- Added list
+- Ran into several list issues, spacing was wrong. Realized it was a style issue
+- Attempted to clarify classes
+- Solved that problem
+- Added step 1 and moved temp photos out
