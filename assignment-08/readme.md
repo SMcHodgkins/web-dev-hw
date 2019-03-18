@@ -26,3 +26,4 @@ Response
 - Troubleshooted issues-- I keep leaving end > off
 - Finished index, moved onto about and contact
 - Added info in about
+- Iframe refuses to be centered
