@@ -1,11 +1,11 @@
 # Questions
 **1. Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?**
 
-Response
+I learned quite a bit in this section and I appreciate the repetition and layering of html elements upon one another each week. I struggled a bit with the forms and probably made a mistake or two that week. This week really starting to utilize the style head element made me realize that if you improperly tag your elements you could potentially earn yourself a ton more work troubleshooting.
 
 **2. Next Topic we begin CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?**
 
-Response
+I'm excited to learn about how to properly build a website so it doesn't look quite as bad. That might just be a me problem but if I still get skills along the way I'm still in for the ride.
 
 **3. Summarize your work cycle for this assignment**
 
@@ -30,3 +30,4 @@ Response
 - Finally fixed Iframe centering by adding it to a block element
 - Added form with hopefully working buttons to contact
 - Gotta fix centering issues
+- Fixed centering issues
