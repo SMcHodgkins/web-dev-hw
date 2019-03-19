@@ -31,3 +31,4 @@ I'm excited to learn about how to properly build a website so it doesn't look qu
 - Added form with hopefully working buttons to contact
 - Gotta fix centering issues
 - Fixed centering issues
+- Thought I was done, forgot semantic markup. Added in index.
