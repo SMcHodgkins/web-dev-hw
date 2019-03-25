@@ -1,12 +1,13 @@
 /* Comment text */
 body {
   font-family: Arial;
+  color: #E84DA3;
   background-color: #C0FFDA;
 }
 .empty {
   background-color: #E84DA3;
 }
-.div1 {
+.div1 div h1 {
   color: #E84DA3;
   background-color: #2BD1FC
 }
