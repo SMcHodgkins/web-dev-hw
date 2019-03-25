@@ -5,6 +5,9 @@ body {
 }
 div {
   background-color: #2BD1FC;
-  Border: 20px;
+  border: 20px;
   border-color: #E84DA3;
+}
+.rad {
+  color: #E84DA3;
 }
