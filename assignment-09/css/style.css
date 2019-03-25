@@ -3,13 +3,10 @@ body {
   font-family: Arial;
   background-color: #C0FFDA;
 }
-div {
-  background-color: #2BD1FC;
-  border: 20px #E84DA3
-}
 .empty {
   background-color: #E84DA3;
 }
 .div1 {
   color: #E84DA3;
+  background-color: #2BD1FC
 }
