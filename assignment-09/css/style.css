@@ -1,12 +1,17 @@
-/* Comment text */
+/* This has been something */
 body {
   background-color: #C0FFDA;
 }
 Div {
   background-color: #2BD1FC;
-  border: 5px;
-  border-color: #E84DA3
 }
 .rad {
   color: #E84DA3;
+}
+.b1 {
+  background-color: #E84DA3;
+  position: Absolute;
+  opacity: 0.1;
+  height: 50%;
+  width: auto;
 }
