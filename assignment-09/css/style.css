@@ -5,9 +5,12 @@ body {
 }
 div {
   background-color: #2BD1FC;
-  border: 20px;
-  border-color: #E84DA3;
+  border: 20px #E84DA3
 }
 .rad {
   color: #E84DA3;
+  position: absolute;
+}
+.empty {
+  background-color: #E84DA3;
 }
