@@ -8,17 +8,23 @@ Div {
 .rad {
   color: #E84DA3;
 }
+.container {
+  background-color: white;
+  height: 100px;
+  width: 100 px;
+  position: absolute;
+}
 .b1 {
   background-color: #E84DA3;
   position: Absolute;
   opacity: 0.25;
   height: 50px;
-  width: 300px;
+  width: 100px;
 }
 .b2 {
   background-color: #2BD1FC;
   Position: Absolute;
   opacity: .5;
   height: 60px;
-  Width: 300px;
+  Width: 75px;
   }
