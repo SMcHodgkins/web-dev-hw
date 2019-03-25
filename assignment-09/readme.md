@@ -20,3 +20,8 @@
  * Set up my index
  * Added the link to my CSS file
  * Added some test text and pushed live
+ * Style was not applied, more testing needed
+ * Didn't properly link it
+ * Experimented with styles
+ * Class selector didn't work
+ * The issue appears to be with cascading rules
