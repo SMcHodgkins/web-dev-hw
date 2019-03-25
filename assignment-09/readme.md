@@ -25,3 +25,8 @@
  * Experimented with styles
  * Class selector didn't work
  * The issue appears to be with cascading rules
+ * Made it simple, worked from there
+ * Added some test boxes for positioning and opacity
+ * Struggled with these for a bit
+ * Finally got them somewhat working
+ * Still not satisfied with my results
