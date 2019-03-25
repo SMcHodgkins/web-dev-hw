@@ -8,6 +8,7 @@ Div {
 .rad {
   color: #E84DA3;
 }
+/* So this obviously isn't working */
 .container {
   background-color: white;
   height: 100px;
@@ -17,14 +18,14 @@ Div {
 .b1 {
   background-color: #E84DA3;
   position: Absolute;
-  opacity: 0.25;
-  height: 50px;
+  opacity: 0.8;
+  height: 100px;
   width: 100px;
 }
 .b2 {
   background-color: #2BD1FC;
   Position: Absolute;
-  opacity: .5;
-  height: 60px;
-  Width: 75px;
+  opacity: .8;
+  height: 50px;
+  Width: 200px;
   }
