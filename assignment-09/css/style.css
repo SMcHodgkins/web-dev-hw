@@ -1,8 +1,10 @@
 /* Comment text */
 body {
   font-family: Arial;
-  background-color: #2BD1FC;
+  background-color: #C0FFDA;
 }
 div {
   background-color: #2BD1FC;
+  Border: 20px;
+  border-color: #E84DA3;
 }
