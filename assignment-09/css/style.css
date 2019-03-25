@@ -4,6 +4,8 @@ body {
 }
 Div {
   background-color: #2BD1FC;
+  border: 5px;
+  border-color: #E84DA3
 }
 .rad {
   color: #E84DA3;
