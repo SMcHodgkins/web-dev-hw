@@ -7,7 +7,7 @@ h1 {
   font-size: 3.5em;
   text-align: center;
   font-weight: bold;
-  font-family: 'Eagle Lake', cursive;
+  font-family: 'Eagle Lake', 'Times New Roman', serif;
 }
 h2 {
   text-align: center;
@@ -18,7 +18,7 @@ h2 {
   font-style: italic;
   border-style: solid;
   border-width: thin;
-  font-family: 'Eagle Lake', cursive;
+  font-family: 'Eagle Lake', 'Times New Roman', serif;
 }
 .top {
   background-color: #f4e9d0;
@@ -44,11 +44,11 @@ div {
   text-align: center;
 }
 p {
-  font-family: 'Mina', sans-serif;
+  font-family: 'Mina', 'Arial', sans-serif;
   line-height: 1.25em;
 }
 p::first-letter {
-  font-family: 'Eagle Lake', cursive;
+  font-family: 'Eagle Lake', 'Times New Roman', serif;
   font-size: 1.5em;
   color: #590d0d;
 }
