@@ -17,3 +17,5 @@
  - Adjusted the line-height
  - Added pseudo-elements to the first letter of paragraphs
  - Changed link properties
+ - had one too many <! at the start of the doc, fixed, pushed
+ - Fonts are not working, attempting to fixed
