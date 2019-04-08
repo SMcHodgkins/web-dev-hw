@@ -1,23 +1,13 @@
-@font-face {
-font-family: 'Eaglelake-Regular';
-src: url('../fonts/Eaglelake-Regular.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
-@font-face {
-font-family: 'Mina-Regular';
-src: url('../fonts/Mina-Regular.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Eagle+Lake');
+@import url('https://fonts.googleapis.com/css?family=Mina');
 body {
-  background-color: b5b2ad;
+  background-color: #b5b2ad;
 }
 h1 {
   font-size: 3.5em;
   text-align: center;
   font-weight: bold;
-  font-family: 'Eaglelake-Regular';
+  font-family: 'Eagle Lake', cursive;
 }
 h2 {
   text-align: center;
@@ -28,7 +18,7 @@ h2 {
   font-style: italic;
   border-style: solid;
   border-width: thin;
-  font-family: 'Eaglelake-Regular';
+  font-family: 'Eagle Lake', cursive;
 }
 .top {
   background-color: #f4e9d0;
@@ -54,11 +44,11 @@ div {
   text-align: center;
 }
 p {
-  font-family: 'Mina-Regular';
+  font-family: 'Mina', sans-serif;
   line-height: 1.25em;
 }
 p::first-letter {
-  font-family: 'Eaglelake-Regular';
+  font-family: 'Eagle Lake', cursive;
   font-size: 1.5em;
   color: #590d0d;
 }

@@ -19,3 +19,6 @@
  - Changed link properties
  - had one too many <! at the start of the doc, fixed, pushed
  - Fonts are not working, attempting to fixed
+ - Working locally, pushing live
+ - Something is amiss, going to try linking
+ - Linking appears to be working
