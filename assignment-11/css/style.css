@@ -1,0 +1,214 @@
+.canvas {
+  position: relative;
+  width: 380px;
+  height: 380px;
+  border: 20px solid #0E0E10;
+  background-color: #F1F2E4;
+  margin-left: 100px;
+  z-index: 2;
+}
+.background {
+  position: absolute;
+  width:450px;
+  height:455px;
+  margin-left: 175px;
+  z-index: 1;
+  background-color: #f2f2f2;
+}
+h1 {
+  border-left: 10px solid #f76b38;
+  padding-left: .5em;
+  margin-bottom: 1em;
+  background-color: white;
+  font-size: 5em;
+
+}
+.row {
+  height: 340px;
+  width: 100px;
+  background-color:;
+  }
+.square {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.ss {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  }
+.black {
+  background-color: #0D0D0D;
+}
+.grey {
+  background-color: #555459;
+}
+.red {
+  background-color: #A62424;
+}
+.hrz {
+  width:100px;
+  height:20px;
+  position:absolute;
+}
+.vrt {
+  width:20px;
+  height:100px;
+  position:absolute;
+}
+.arttext {
+  display: inline-block;
+  text-align: center;
+}
+#row1 {
+  position: absolute;
+  left:20px;
+  bottom: 20px;
+}
+#row2 {
+  position: absolute;
+  left: 140px;
+  top: 20px;
+}
+#row3 {
+  position: absolute;
+  left: 260px;
+  bottom: 20px;
+}
+#square1 {}
+#ss1 {}
+#ss2 {
+  left: 40px;
+}
+#ss3 {
+  left: 80px;
+}
+#ss4 {
+  top: 40px;
+}
+#ss5 {
+  top: 40px;
+  left: 40px;
+}
+#ss6 {
+  top:40px;
+  left:80px;
+}
+#ss7 {
+  top:80px
+}
+#ss8 {
+  top: 80px;
+  left:40px;
+}
+#ss9 {
+  top:80px;
+  left:80px;
+}
+#square2 {}
+#rt1 {
+  top: 120px;
+}
+#rt2 {
+  top:160px;
+}
+#rt3 {
+  top:200px;
+}
+#square3 {
+  top:240px;
+}
+#square4 {}
+#square5{}
+  #rt4 {
+    top:120px;
+  }
+  #rt5 {
+    top:120px;
+    left:40px;
+  }
+  #rt6 {
+    top:120px;
+    left:80px;
+  }
+#square6{}
+  #rt7 {
+    top:240px;
+  }
+  #rt8 {
+    top:280px;
+  }
+  #rt9 {
+    top:320px;
+  }
+#square7{}
+  #ss10 {
+    top:0px;
+  }
+  #ss11 {
+    top:40px;
+  }
+  #ss12 {
+    top:80px;
+  }
+  #ss13 {
+    left:40px;
+  }
+  #ss14 {
+    left:40px;
+    top:40px;
+  }
+  #ss15 {
+    left:40px;
+    top:80px;
+  }
+  #ss16 {
+    left:80px;
+  }
+  #ss17 {
+    left:80px;
+    top:40px;
+  }
+  #ss18 {
+    left:80px;
+    top:80px;
+  }
+#square8 {
+  top:120px;
+}
+#square9{}
+  #ss19 {
+    top:240px;
+  }
+  #ss20 {
+    top:280px;
+  }
+  #ss21 {
+    top:320px;
+  }
+  #ss22 {
+    top:240px;
+    left:40px;
+  }
+  #ss23 {
+    top:240px;
+    left:80px;
+  }
+  #ss24 {
+    top:280px;
+    left:40px;
+  }
+  #ss25 {
+    top:280px;
+    left:80px;
+  }
+  #ss26 {
+    top:320px;
+    left:40px;
+  }
+  #ss27 {
+    top:320px;
+    left:80px;
+  }
+/*A little frustrated my plan to use squares inside rectange rows didn't pan out. Oh well */
