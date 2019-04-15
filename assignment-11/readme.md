@@ -26,3 +26,4 @@
  - Added text which I forced to display inline-block
  - Added a z-index square
  - Called it a day
+ - I think I realized why things didn't work. I didn't position my squares in the rows before moving onto the interior elements. That sucks.
