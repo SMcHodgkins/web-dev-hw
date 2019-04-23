@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC');
+p {
+  font-family: 'Oxygen',sans-serif;
+}
+h1, header {
+  font-family: 'Alegreya SC', serif;
+}
