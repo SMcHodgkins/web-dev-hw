@@ -27,6 +27,6 @@
  - Added media to my about page
  - Added in a contact formatted
  - Applied some fonts
- - Calling it a display
+ - Calling it a day
  - Realized I didn't have a dropdown menu, I should really read the guidelines first
  - That's not going to happen. I'll take the hit to my grade.
