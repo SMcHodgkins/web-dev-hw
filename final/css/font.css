@@ -1,0 +1,11 @@
+@import url("https://use.typekit.net/gfb3pzb.css");
+strong {
+  font-family: futura-pt-bold, sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+p,ul,a {
+  font-family: museo-slab, serif;
+font-weight: 500;
+font-style: normal;
+}
